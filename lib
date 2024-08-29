@@ -1,5 +1,3 @@
---final rewrite using only my brain no tutorials.
-
 -- services
 local HttpService = game:GetService("HttpService")
 local plrs = game:GetService("Players")
